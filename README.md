@@ -32,8 +32,8 @@ Recall: Optimized to detect fraudulent transactions effectively
 <br>
 F1 Score: Balanced to minimize false positives and false negatives
 <br>
-Technologies Used
 <br>
+Technologies Used
 <br>
 Python
 <br>
