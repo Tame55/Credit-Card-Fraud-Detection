@@ -10,9 +10,7 @@ Fraud Detection Model: Logistic Regression-based model to identify fraudulent tr
 <br>
 Handling Imbalanced Data: Applied under-sampling techniques to balance the dataset, enabling the model to learn effectively from both legitimate and fraudulent transactions.
 <br>
-Performance Metrics: Achieved 94% Precision on both training and testing sets, showing robust performance and preventing overfitting.
-<br>
-Optimization: Explored strategies to optimize precision, recall, and F1 score for improved fraud detection accuracy.
+Performance Metrics: Achieved 94% Accuracy on both training and testing sets, showing robust performance and preventing overfitting.
 <br>
 <br>
 Methodology
@@ -21,17 +19,12 @@ Preprocessed the dataset and handled imbalanced classes using under-sampling.
 <br>
 Trained the Logistic Regression model on the balanced dataset.
 <br>
-Evaluated the model using precision, recall, and F1-score to ensure reliability.
+Evaluated the model using accuracy to ensure reliability.
 <br>
 <br>
 Results
 <br>
-Precision: 94%
-<br>
-Recall: Optimized to detect fraudulent transactions effectively
-<br>
-F1 Score: Balanced to minimize false positives and false negatives
-<br>
+Accuracy: 94%
 <br>
 Technologies Used
 <br>
